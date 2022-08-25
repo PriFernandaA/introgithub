@@ -1,0 +1,4 @@
+Exercicio para dar :
+Git add . (prepra os arquivos para commit e adiciona os arquivos alterados )
+git commit -m 'escrever texto' (salva alteraçoes dentro do ambiente local)
+git push (envia alterações pelo commit para o repositorio remoto(nuvem))
